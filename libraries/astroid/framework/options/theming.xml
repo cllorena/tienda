@@ -8,7 +8,7 @@
          <field astroidgroup="colors" name="theme_blue" type="astroidcolor" large="true" label="TPL_COLOR_BLUE" default="#007bff"></field>
          <field astroidgroup="colors" name="theme_indigo" type="astroidcolor" large="true" label="TPL_COLOR_INDIGO" default="#6610f2"></field>
          <field astroidgroup="colors" name="theme_purple" type="astroidcolor" large="true" label="TPL_COLOR_PURPLE" default="#6f42c1"></field>
-         <field astroidgroup="colors" name="theme_pink" type="astroidcolor" large="true" label="TPL_COLOR_PINK" default="#f36"></field>
+         <field astroidgroup="colors" name="theme_pink" type="astroidcolor" large="true" label="TPL_COLOR_PINK" default="#212e5b"></field>
          <field astroidgroup="colors" name="theme_red" type="astroidcolor" large="true" label="TPL_COLOR_RED" default="#dc3545"></field>
          <field astroidgroup="colors" name="theme_orange" type="astroidcolor" large="true" label="TPL_COLOR_ORANGE" default="#fd7e14"></field>
          <field astroidgroup="colors" name="theme_yellow" type="astroidcolor" large="true" label="TPL_COLOR_YELLOW" default="#ffc107"></field>
